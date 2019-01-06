@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "Ionic Templates Collection Web Site"
+description: "A Ionic Templates Collection"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -10,10 +10,10 @@ author:
 #Target date in UTC / GMT
 countdown:
   theme: red
-  year: 2020
-  month: 1
+  year: 2019
+  month: 2
   day: 1
-  hour: 0
+  hour: 10
   minute: 0
 
 # Site owner
