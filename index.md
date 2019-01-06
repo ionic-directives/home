@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Ionic Templates Collections Site"
+title: "Ionic Components Collections Site"
 excerpt: "Coming Soon"
 ---
 # Website is coming soon
